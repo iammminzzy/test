@@ -5,8 +5,7 @@ test 4번
 test 5번
 test 6번
 
-같이만짐 손민지
-sdlfjkasdf
-asdfjlkgh
-움ㄴ이러ㅔㅐㅈㅁㅇㄹㅁㄴㅇㄹㅁㄹㅇ
-마ㅣㄴㅇ러미ㅏㄴ얼마ㅣㄹㄴㅇ
+같이만짐
+길현민입니다가나다라마바사
+아자차카타파하
+asdfghhj
